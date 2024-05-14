@@ -1,0 +1,19 @@
+{
+  "name": "vite-plugin-scan-useless-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "type": "module",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
